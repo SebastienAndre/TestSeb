@@ -1,2 +1,2 @@
 # TestSeb
-jus for testing features gihub 
+just for testing features github 
